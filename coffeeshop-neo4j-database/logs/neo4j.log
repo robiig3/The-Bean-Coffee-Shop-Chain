@@ -1,0 +1,527 @@
+﻿Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-02-24 08:27:42.136+0000 INFO  Starting...
+2022-02-24 08:27:42.819+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-02-24 08:27:44.158+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-02-24 08:27:46.722+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-02-24 08:27:46.744+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-02-24 08:27:47.483+0000 INFO  Remote interface available at http://localhost:7474/
+2022-02-24 08:27:47.487+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-02-24 08:27:47.487+0000 INFO  name: system
+2022-02-24 08:27:47.487+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-02-24 08:27:47.487+0000 INFO  Started.
+2022-02-24 08:34:47.887+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 1, column 18.  Encountered: <EOF> after : "", reference 1d75b109-d5c9-4655-8afc-78441e48e3fd.
+2022-02-24 08:35:04.578+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 1, column 26.  Encountered: <EOF> after : "", reference 443f8423-322e-4a65-8bc4-725daa18b303.
+2022-02-24 08:40:37.002+0000 INFO  Neo4j Server shutdown initiated by request
+2022-02-24 08:40:37.002+0000 INFO  Stopping...
+2022-02-24 08:40:37.002+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-02-25 14:30:31.021+0000 INFO  Starting...
+2022-02-25 14:30:31.784+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-02-25 14:30:33.218+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-02-25 14:30:35.377+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-02-25 14:30:35.398+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-02-25 14:30:36.221+0000 INFO  Remote interface available at http://localhost:7474/
+2022-02-25 14:30:36.224+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-02-25 14:30:36.225+0000 INFO  name: system
+2022-02-25 14:30:36.225+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-02-25 14:30:36.225+0000 INFO  Started.
+2022-02-25 16:02:29.543+0000 INFO  Neo4j Server shutdown initiated by request
+2022-02-25 16:02:29.543+0000 INFO  Stopping...
+2022-02-25 16:02:29.543+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-02-26 20:00:03.709+0000 INFO  Starting...
+2022-02-26 20:00:04.556+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-02-26 20:00:06.139+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-02-26 20:00:08.389+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-02-26 20:00:08.418+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-02-26 20:00:09.197+0000 INFO  Remote interface available at http://localhost:7474/
+2022-02-26 20:00:09.200+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-02-26 20:00:09.201+0000 INFO  name: system
+2022-02-26 20:00:09.201+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-02-26 20:00:09.201+0000 INFO  Started.
+2022-02-26 20:00:30.215+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 1, column 35.  Encountered: <EOF> after : "", reference 8ba599a1-a544-49ef-b563-fa392844a80a.
+2022-02-26 20:00:31.563+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 1, column 35.  Encountered: <EOF> after : "", reference 2464ada1-770d-4136-8f24-c124d1b77bea.
+2022-02-27 10:34:24.807+0000 INFO  Neo4j Server shutdown initiated by request
+2022-02-27 10:34:24.808+0000 INFO  Stopping...
+2022-02-27 10:34:24.808+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-02-27 21:18:13.858+0000 INFO  Starting...
+2022-02-27 21:18:14.954+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-02-27 21:18:16.869+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-02-27 21:18:19.788+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-02-27 21:18:19.826+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-02-27 21:18:20.989+0000 INFO  Remote interface available at http://localhost:7474/
+2022-02-27 21:18:20.994+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-02-27 21:18:20.994+0000 INFO  name: system
+2022-02-27 21:18:20.994+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-02-27 21:18:20.994+0000 INFO  Started.
+2022-02-27 22:13:52.667+0000 INFO  Neo4j Server shutdown initiated by request
+2022-02-27 22:13:52.667+0000 INFO  Stopping...
+2022-02-27 22:13:52.667+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-02 16:54:28.028+0000 INFO  Starting...
+2022-03-02 16:54:28.856+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-02 16:54:30.494+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-02 16:54:32.838+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-02 16:54:32.867+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-02 16:54:33.786+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-02 16:54:33.790+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-02 16:54:33.790+0000 INFO  name: system
+2022-03-02 16:54:33.790+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-02 16:54:33.790+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-03 06:12:59.131+0000 INFO  Starting...
+2022-03-03 06:13:00.118+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-03 06:13:01.951+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-03 06:13:04.572+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-03 06:13:04.607+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-03 06:13:05.488+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-03 06:13:05.494+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-03 06:13:05.494+0000 INFO  name: system
+2022-03-03 06:13:05.494+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-03 06:13:05.494+0000 INFO  Started.
+2022-03-03 08:40:50.824+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-03 08:40:50.824+0000 INFO  Stopping...
+2022-03-03 08:40:50.825+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-03 08:41:08.932+0000 INFO  Starting...
+2022-03-03 08:41:10.628+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-03 08:41:13.119+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-03 08:41:17.232+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-03 08:41:17.286+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-03 08:41:18.655+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-03 08:41:18.662+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-03 08:41:18.663+0000 INFO  name: system
+2022-03-03 08:41:18.663+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-03 08:41:18.663+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-03 08:41:33.905+0000 INFO  Starting...
+2022-03-03 08:41:35.657+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-03 08:41:38.513+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-03 08:41:43.304+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-03 08:41:43.368+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-03 08:41:44.767+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-03 08:41:44.773+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-03 08:41:44.774+0000 INFO  name: system
+2022-03-03 08:41:44.774+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-03 08:41:44.774+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-10 06:16:07.242+0000 INFO  Starting...
+2022-03-10 06:16:08.980+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-10 06:16:12.237+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-10 06:16:16.845+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-10 06:16:16.925+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-10 06:16:18.388+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-10 06:16:18.395+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-10 06:16:18.396+0000 INFO  name: system
+2022-03-10 06:16:18.396+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-10 06:16:18.396+0000 INFO  Started.
+2022-03-10 06:36:03.598+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 4, column 11.  Encountered: <EOF> after : "", reference 4ff9b65c-53f3-49f1-a95c-571afe7d3967.
+2022-03-10 06:36:05.567+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 4, column 11.  Encountered: <EOF> after : "", reference 65d27c89-d4a8-4370-9987-8d895f99c50f.
+2022-03-10 07:18:54.482+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-10 07:18:54.482+0000 INFO  Stopping...
+2022-03-10 07:18:54.482+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-10 07:22:35.120+0000 INFO  Starting...
+2022-03-10 07:22:36.728+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-10 07:22:39.638+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-10 07:22:43.605+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-10 07:22:43.653+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-10 07:22:44.971+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-10 07:22:44.978+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-10 07:22:44.978+0000 INFO  name: system
+2022-03-10 07:22:44.979+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-10 07:22:44.979+0000 INFO  Started.
+2022-03-10 08:45:56.222+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-10 08:45:56.222+0000 INFO  Stopping...
+2022-03-10 08:45:56.223+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-12 14:23:19.521+0000 INFO  Starting...
+2022-03-12 14:23:20.364+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-12 14:23:22.007+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-12 14:23:24.455+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-12 14:23:24.475+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-12 14:23:25.905+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-12 14:23:25.909+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-12 14:23:25.909+0000 INFO  name: system
+2022-03-12 14:23:25.909+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-12 14:23:25.909+0000 INFO  Started.
+2022-03-13 15:57:37.503+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-13 15:57:37.504+0000 INFO  Stopping...
+2022-03-13 15:57:37.504+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-15 12:16:13.689+0000 INFO  Starting...
+2022-03-15 12:16:15.558+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-15 12:16:18.816+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-15 12:16:23.396+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-15 12:16:23.454+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-15 12:16:25.114+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-15 12:16:25.121+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-15 12:16:25.122+0000 INFO  name: system
+2022-03-15 12:16:25.122+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-15 12:16:25.122+0000 INFO  Started.
+2022-03-15 15:45:37.823+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-15 15:45:37.823+0000 INFO  Stopping...
+2022-03-15 15:45:37.824+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-15 16:41:27.576+0000 INFO  Starting...
+2022-03-15 16:41:29.432+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-15 16:41:33.227+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-15 16:41:38.397+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-15 16:41:38.458+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-15 16:41:40.032+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-15 16:41:40.039+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-15 16:41:40.039+0000 INFO  name: system
+2022-03-15 16:41:40.040+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-15 16:41:40.040+0000 INFO  Started.
+2022-03-15 17:11:46.495+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-15 17:11:46.495+0000 INFO  Stopping...
+2022-03-15 17:11:46.495+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-16 14:48:30.910+0000 INFO  Starting...
+2022-03-16 14:48:32.940+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-16 14:48:36.340+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-16 14:48:41.126+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-16 14:48:41.191+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-16 14:48:42.955+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-16 14:48:42.962+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-16 14:48:42.963+0000 INFO  name: system
+2022-03-16 14:48:42.963+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-16 14:48:42.963+0000 INFO  Started.
+2022-03-16 19:01:55.354+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-16 19:01:55.355+0000 INFO  Stopping...
+2022-03-16 19:01:55.356+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-17 06:53:30.300+0000 INFO  Starting...
+2022-03-17 06:53:32.058+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-17 06:53:35.075+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-17 06:53:39.169+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-17 06:53:39.235+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-17 06:53:40.663+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-17 06:53:40.670+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-17 06:53:40.671+0000 INFO  name: system
+2022-03-17 06:53:40.671+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-17 06:53:40.671+0000 INFO  Started.
+2022-03-17 07:13:06.944+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 3, column 50.  Encountered: <EOF> after : "", reference 26f15b6b-c545-4831-9ef5-253a1d72a3be.
+2022-03-17 09:32:53.506+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-17 09:32:53.507+0000 INFO  Stopping...
+2022-03-17 09:32:53.507+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-24 06:44:06.363+0000 INFO  Starting...
+2022-03-24 06:44:08.184+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-24 06:44:11.496+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-24 06:44:15.857+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-24 06:44:15.900+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-24 06:44:17.606+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-24 06:44:17.613+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-24 06:44:17.614+0000 INFO  name: system
+2022-03-24 06:44:17.614+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-24 06:44:17.614+0000 INFO  Started.
+2022-03-24 07:40:39.422+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-24 07:40:39.422+0000 INFO  Stopping...
+2022-03-24 07:40:39.423+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-24 08:18:58.032+0000 INFO  Starting...
+2022-03-24 08:18:59.546+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-24 08:19:02.328+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-24 08:19:06.394+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-24 08:19:06.469+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-24 08:19:07.981+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-24 08:19:07.988+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-24 08:19:07.988+0000 INFO  name: system
+2022-03-24 08:19:07.988+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-24 08:19:07.989+0000 INFO  Started.
+2022-03-24 08:28:30.284+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-24 08:28:30.285+0000 INFO  Stopping...
+2022-03-24 08:28:30.285+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-27 10:49:54.047+0000 INFO  Starting...
+2022-03-27 10:49:55.987+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-27 10:49:59.008+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-27 10:50:03.506+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-27 10:50:03.556+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-27 10:50:05.427+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-27 10:50:05.438+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-27 10:50:05.438+0000 INFO  name: system
+2022-03-27 10:50:05.439+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-27 10:50:05.439+0000 INFO  Started.
+2022-03-27 12:25:54.243+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Lexical error at line 1, column 60.  Encountered: <EOF> after : "", reference bae59a2d-3d7e-4a90-9fab-d14e201d459f.
+2022-03-28 14:35:32.920+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-28 14:35:32.921+0000 INFO  Stopping...
+2022-03-28 14:35:32.922+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-29 09:15:17.143+0000 INFO  Starting...
+2022-03-29 09:15:18.866+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-29 09:15:21.955+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-29 09:15:26.431+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-29 09:15:26.475+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-29 09:15:27.938+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-29 09:15:27.947+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-29 09:15:27.947+0000 INFO  name: system
+2022-03-29 09:15:27.948+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-29 09:15:27.948+0000 INFO  Started.
+2022-03-29 22:53:05.309+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-29 22:53:05.309+0000 INFO  Stopping...
+2022-03-29 22:53:05.309+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-31 05:16:08.939+0000 INFO  Starting...
+2022-03-31 05:16:10.759+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-31 05:16:14.335+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-31 05:16:18.915+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-31 05:16:18.971+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-31 05:16:20.524+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-31 05:16:20.531+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-31 05:16:20.531+0000 INFO  name: system
+2022-03-31 05:16:20.531+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-31 05:16:20.531+0000 INFO  Started.
+2022-03-31 07:08:10.284+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-31 07:08:10.285+0000 INFO  Stopping...
+2022-03-31 07:08:10.285+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-03-31 10:40:49.190+0000 INFO  Starting...
+2022-03-31 10:40:51.214+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-03-31 10:40:54.478+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-03-31 10:40:59.033+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-03-31 10:40:59.097+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-03-31 10:41:00.640+0000 INFO  Remote interface available at http://localhost:7474/
+2022-03-31 10:41:00.648+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-03-31 10:41:00.649+0000 INFO  name: system
+2022-03-31 10:41:00.649+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-03-31 10:41:00.649+0000 INFO  Started.
+2022-03-31 10:42:22.417+0000 INFO  Neo4j Server shutdown initiated by request
+2022-03-31 10:42:22.418+0000 INFO  Stopping...
+2022-03-31 10:42:22.418+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a
+config:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\conf
+logs:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\logs
+plugins:      C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\plugins
+import:       C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\import
+data:         C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\data
+certificates: C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\certificates
+licenses:     C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\licenses
+run:          C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\run
+Starting Neo4j.
+2022-04-14 05:27:24.849+0000 INFO  Starting...
+2022-04-14 05:27:26.584+0000 INFO  This instance is ServerId{8aab705d} (8aab705d-7dfd-4adf-bd0f-0d037faf81b5)
+2022-04-14 05:27:29.459+0000 INFO  ======== Neo4j 4.4.4 ========
+2022-04-14 05:27:33.493+0000 INFO  Sending metrics to CSV file at C:\Users\georg\.Neo4jDesktop\relate-data\dbmss\dbms-f22ba06d-9460-4627-aa1d-f1f11b3f755a\metrics
+2022-04-14 05:27:33.553+0000 INFO  Bolt enabled on kubernetes.docker.internal:7687.
+2022-04-14 05:27:35.113+0000 INFO  Remote interface available at http://localhost:7474/
+2022-04-14 05:27:35.121+0000 INFO  id: E4E8A92390CF46B65CC0DEB20104D208905FDD7A8111962CE642A6C0F723FBF3
+2022-04-14 05:27:35.121+0000 INFO  name: system
+2022-04-14 05:27:35.121+0000 INFO  creationDate: 2022-02-24T08:27:44.739Z
+2022-04-14 05:27:35.121+0000 INFO  Started.
+2022-04-14 08:05:58.488+0000 INFO  Neo4j Server shutdown initiated by request
+2022-04-14 08:05:58.489+0000 INFO  Stopping...
+2022-04-14 08:05:58.489+0000 INFO  Stopped.

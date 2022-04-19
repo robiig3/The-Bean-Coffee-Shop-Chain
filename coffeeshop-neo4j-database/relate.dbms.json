@@ -1,0 +1,36 @@
+{
+  "name": "Coffeeshop DBMS 9e9c277e",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-9e9c277e-dadd-4f54-8498-841a69ccd87a"
+  ],
+  "id": "f22ba06d-9460-4627-aa1d-f1f11b3f755a",
+  "metadata": {
+    "neo4jDesktopDbmsDatabases": [
+      {
+        "name": "neo4j",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": true,
+        "statistics": {
+          "nodes": 7,
+          "relationships": 5,
+          "labels": 3,
+          "relationshipTypes": 2,
+          "propertyKeys": 12
+        }
+      },
+      {
+        "name": "system",
+        "role": "standalone",
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "error": "",
+        "default": false
+      }
+    ]
+  },
+  "isCustomPathInstallation": false
+}
